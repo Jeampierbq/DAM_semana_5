@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DAMSem06_RadioButton</string>
+    <string name="b">UNTELS\n</string>
+    <string name="a">UNMSM\n</string>
+    <string name="c">UPeU\n</string>
+    <string name="radiobutton_untels">UNTELS</string>
+    <string name="radiobutton_unmsm">UNMSM</string>
+    <string name="radiobutton_upeu">UPeU</string>
+</resources>
